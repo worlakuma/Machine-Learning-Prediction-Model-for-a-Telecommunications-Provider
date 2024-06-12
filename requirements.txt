@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+pandas-profiling
+sweetviz
+scikit-learn
+category-encoders
+catboost
+lightgbm
+xgboost
+optuna
+scipy
+imbalanced-learn
