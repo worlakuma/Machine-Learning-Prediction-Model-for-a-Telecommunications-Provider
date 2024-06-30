@@ -21,9 +21,17 @@ In the ever-evolving telecommunication sector, retaining customers and accuratel
     - [Access the Telco-churn-last-2000 data from OneDrive](#access-Telco-churn-last-2000-data-from-onedrive)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Step 3: Data Preparation](#step-3-data-preparation)
-  - [Data Cleaning](#data-cleaning)
-  - [Data Transformation](#data-transformation)
-  - [Data Integration](#data-integration)
+  - [Split data set into X, y](#Split data set into X, y)
+  - [Split data set into training and evaluation]
+  - [Feature Engineering (Creating New Features, (binning & bucketing), Handling Missing Data, Encoding, Standardization, 
+        Normalization, Scaling)]
+    - [Create a pipeline to preprocess the data]
+      - [Separate inpute features into numeric and categorical for different pipelines]
+      - [Handle missing values using imputation Techniques]
+      - [Scaling or normalize numeric features]
+      - [Encode categorical features]
+      - [Transformations for skewed data (log, power, custom, etc)]
+      - [Balance dataset (depending on what you see)]
 
 <!-- /TOC -->
 
